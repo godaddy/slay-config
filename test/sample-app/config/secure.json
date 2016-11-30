@@ -1,0 +1,10 @@
+{
+  "assertValue": "secure",
+  "ENV_VAR_HIT": "secure",
+  "secure": {
+    "file": "./config/secure/development.json",
+    "secret": "super-secretzzz"
+  },
+  "overridden": true,
+  "http": 6768
+}

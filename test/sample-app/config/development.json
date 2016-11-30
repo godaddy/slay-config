@@ -1,0 +1,6 @@
+{
+  "assertValue": "development",
+  "ENV_VAR_HIT": "development",
+  "overridden": true,
+  "http": 6768
+}

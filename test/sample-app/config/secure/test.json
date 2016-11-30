@@ -1,0 +1,10 @@
+{
+  "isNull": {
+    "alg": "aes-256-ctr",
+    "value": "af07fbcf"
+  },
+  "literal": {
+    "alg": "aes-256-ctr",
+    "value": "e310f6d94f13"
+  }
+}
