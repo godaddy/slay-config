@@ -130,7 +130,7 @@ npm test
 ## License
 MIT
 
-##### Contributors: [Fady Matar](https://github.secureserver.net/fmatar), [Charlie Robbins](https://github.secureserver.net/crobbins)
+##### Contributors: [Fady Matar](https://github.com/fmatar), [Charlie Robbins](https://github.com/indexzero)
 
 [overrides]: https://github.com/indexzero/nconf#literal
 [CLI arguments]: https://github.com/indexzero/nconf#argv
