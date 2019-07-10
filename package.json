@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "diagnostics": "^1.0.1",
-    "lodash.merge": "^3.3.2",
+    "lodash.merge": "^4.6.2",
     "path-is-absolute": "^1.0.0"
   }
 }
